@@ -7,7 +7,8 @@ HPL（High Performance Linpack） 又叫高度并行计算基准测试,是国际
 * 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 * 请遵循“2025全国大学生操作系统比赛”的章程和技术方案要求
 
-## 项目导师 殷时友 yinshiyou@loongson.cn 
+## 项目导师 
+* 殷时友 yinshiyou@loongson.cn 
 
 ## 难度: 中-高
 
