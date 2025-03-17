@@ -10,9 +10,11 @@ HPL（High Performance Linpack） 又叫高度并行计算基准测试,是国际
 ## 项目导师 
 * 殷时友 yinshiyou@loongson.cn 
 
-## 难度: 中-高
+## 难度
+中-高
 
-# LicenseGPL V3.0.
+# License
+GPL V3.0.
 
 ## 预期目标
 * 给出在3C6000上HPL性能的现状和瓶颈分析报告。
